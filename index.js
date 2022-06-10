@@ -7,7 +7,6 @@ const returnsANamedFunction = () => {
 }
 }
 
-
 const returnsAnAnonymousFunction = () => {
 return function (){
 } 
